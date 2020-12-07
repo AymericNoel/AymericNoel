@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**My name is Aymeric and I'm a fullstack blockchain ingeneer from Paris, France**
+**My name is Aymeric and I'm a fullstack blockchain engineer from Paris, France**
 
 - 💬 Ask me about : `NET/ .NET Core`, `ASP.NET Core`, `Solidity`, `Tezos`, `Ethereum` or `Bitcoin` 
 - 📫 How to reach me : Mainly on *linkedIn*  [Aymeric noel](https://www.linkedin.com/in/aymeric-no%C3%ABl-593bb9155/) 
